@@ -1,0 +1,1 @@
+The Face Mask Detection System is a deep learning-based computer vision project that detects whether a person is wearing a face mask or not in real-time using a webcam or images. It uses a trained CNN (Convolutional Neural Network) model along with OpenCV for face detection and classification
